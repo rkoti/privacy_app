@@ -3,7 +3,7 @@ from streamlit_lottie import st_lottie
 from PIL import Image
 
 
-img_path = r"C:\Users\rkotian\PycharmProjects\Anonymization\tue.png"
+img_path = "/apps/tue.png"
 
 st.set_page_config(
     page_title="Tabular Data Anonymization App",
