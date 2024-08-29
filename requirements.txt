@@ -5,4 +5,4 @@ streamlit-lottie          0.0.5
 anonymizedf               1.0.1
 anonypy                   0.1.7
 pillow                    9.4.0
-pycanon                   1.0.1.post2
+pycanon                   
